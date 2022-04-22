@@ -1,0 +1,1 @@
+This action cannot be undone. This will permanently delete the Orydg/write_log repository, wiki, issues, comments, packages, secrets, workflow runs, and remove all collaborator associations.
