@@ -1,0 +1,3 @@
+пример вызова скрипта пайтон из каталога
+
+time mpiexec -n 5 python main_MPI.py
