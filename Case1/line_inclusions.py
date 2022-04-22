@@ -22,6 +22,7 @@ def occurrence_of_single_string(str1, str2):
                                                             f"The desired type is a string."
 
     str1, str2 = str1.lower(), str2.lower()
+
     return all([s in str2 for s in str1.split(' ')]) or all([s in str1 for s in str2.split(' ')])
 
 
